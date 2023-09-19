@@ -1,2 +1,2 @@
 # ML_Algorithms
-Machine Learning Algorithm code Iplemntations , testings with different types of datasets and parameters.
+Machine Learning Algorithm code Implementations , testings with different types of datasets and parameters.
